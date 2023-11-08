@@ -1,3 +1,4 @@
 I am writing this line using write method in python.
- I am writing this line using write method in python.
- I am appending this line using write method in python.
+I am writing this line using write method in python.
+I am appending this line using write method in python.
+I am manually writing this line just to check the status in git bash.
