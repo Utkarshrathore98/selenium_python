@@ -1,0 +1,3 @@
+I am writing this line using write method in python.
+ I am writing this line using write method in python.
+ I am appending this line using write method in python.
